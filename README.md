@@ -11,6 +11,13 @@ Welcome to the ChatGPT clone repository! This repository contains a clone of Cha
 
 ChatGPT is a language model based on the GPT-3.5 architecture, designed to generate human-like responses to natural language inputs. This clone repository aims to provide a simplified implementation of ChatGPT for developers who want to experiment with or integrate natural language processing into their projects.
 
+⚒️ Tech Stack: ⚒️
+- HTML, CSS
+- Javascript
+- Vite
+- Nodejs
+- OpenAI
+
 🔧 Installation
 
 1. Clone this repository to your local machine:
@@ -20,14 +27,14 @@ git clone https://github.com/manvendra2000/ai-codex
 
 2. Install the required dependencies:
 ```
-pip install -r requirements.txt
+npm install
 ```
 
 📚 Usage
 
 To use ChatGPT clone, simply run the following command:
 ```
-python chatbot.py
+npm run dev
 ```
 
 ChatGPT clone will prompt you to enter a natural language input, and it will generate a human-like response to your input.
