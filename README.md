@@ -1,7 +1,4 @@
 # AI-Codex
-Chat GPT clone
-
-Certainly! Here's an example GitHub README file for a ChatGPT clone:
 
 🤖 ChatGPT Clone 🚀
 
