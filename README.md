@@ -15,7 +15,7 @@ ChatGPT is a language model based on the GPT-3.5 architecture, designed to gener
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/chatgpt-clone.git
+git clone https://github.com/manvendra2000/ai-codex
 ```
 
 2. Install the required dependencies:
