@@ -4,7 +4,7 @@
 
 Welcome to the ChatGPT clone repository! This repository contains a clone of ChatGPT, a large language model trained by OpenAI.
 
-📝 Description
+📝 Description: 📝
 
 ChatGPT is a language model based on the GPT-3.5 architecture, designed to generate human-like responses to natural language inputs. This clone repository aims to provide a simplified implementation of ChatGPT for developers who want to experiment with or integrate natural language processing into their projects.
 
