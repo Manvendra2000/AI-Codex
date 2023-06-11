@@ -1,4 +1,4 @@
-# AI-Codex - 
+# AI-Codex
 
 🤖 ChatGPT Clone 🚀
 
