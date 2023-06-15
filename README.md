@@ -2,7 +2,7 @@
 
 🤖 ChatGPT Clone 🚀
 
-Welcome to the ChatGPT clone repository! This repository contains a clone of ChatGPT, a large language model trained by OpenAI..
+Welcome to the ChatGPT clone repository! This repository contains a clone of ChatGPT, a large language model trained by OpenAI.....
 
 📝 Description: 📝
 
